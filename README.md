@@ -103,7 +103,7 @@ int main() {
 
 ## Contributing
 
-Contributions to CudaSLIC are welcome! If you have ideas for improvements or find bugs, please submit a pull request or open an issue on the [GitHub repository](https://github.com/yourusername/CudaSLIC).
+Contributions to CudaSLIC are welcome! If you have ideas for improvements or find bugs, please submit a pull request or open an issue on the [GitHub repository](https://github.com/SilverSix6/CudaSLIC).
 
 ---
 
