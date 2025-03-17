@@ -6,3 +6,6 @@
 *.fatbin
 
 *.o
+*.so
+*.dll
+*.obj
